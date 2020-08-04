@@ -1,0 +1,3 @@
+Name: Mar Curto
+Age: 23
+Favorite Color: Yellow
